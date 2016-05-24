@@ -1,5 +1,10 @@
 Mars is cold and dry, but everything is my favorite power color: red!  
 The two moons may be a problem for Wolfman.
 Mummy will appreciate the lack of humidity.
+<<<<<<< HEAD
 We will need to manufacture our own oxygen.
 Extra line.
+=======
+This line added to Wolfman's.
+>>>>>>> a8d25f00ab37157b1822f5963f30d3ecad137ef7
+we removed the conflict in this line 
